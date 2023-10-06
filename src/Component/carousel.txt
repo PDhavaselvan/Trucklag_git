@@ -1,0 +1,151 @@
+{/*----------------------------------------VEHICLES--------------------------------------------*/}
+
+      <h1 style={{ textAlign: "center", color: "#106eea" }}>AVAILABLE VEHICLES</h1>
+
+      <div className="d-flex justify-content-center align-items-center" style={{ minHeight: "100vh" }}>
+        <div className="container mt-3">
+          <Carousel>
+            <div className='carousel-item'>
+              <div className='container'>
+                <div className="row" style={{ height: "auto" }}>
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={bike} alt="img 1" style={{ maxWidth: "100%", height: "175px", top: "1", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>Item Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professional relocation services at
+                          lowest prices. Get premium
+                          packaging & no hidden costs.
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={Autoimg} alt="img 1" style={{ maxWidth: "100%", height: "175px", top: "1", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>Item Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professional relocation services at
+                          lowest prices. Get premium
+                          packaging & no hidden costs.
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={tataac} alt="img 2" style={{ maxWidth: "100%", height: "175px", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>House Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professinal house shifting Service.
+                          Quick & Safe delivery, Well Experienced staff .
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/*----------------------------------------------------------------*/}
+            <div className='carousel-item'>
+              <div className='container'>
+                <div className="row">
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={bolero} alt="img 1" style={{ maxWidth: "100%", height: "175px", top: "1", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>Item Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professional relocation services at
+                          lowest prices. Get premium
+                          packaging & no hidden costs.
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={Autoimg} alt="img 1" style={{ maxWidth: "100%", height: "175px", top: "1", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>Item Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professional relocation services at
+                          lowest prices. Get premium
+                          packaging & no hidden costs.
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={tataac} alt="img 2" style={{ maxWidth: "100%", height: "175px", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>House Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professinal house shifting Service.
+                          Quick & Safe delivery, Well Experienced staff .
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/*-------------------------------------------------------------------------------*/}
+            <div className='carousel-item'>
+              <div className='container'>
+                <div className="row">
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={Autoimg} alt="img 1" style={{ maxWidth: "100%", height: "175px", top: "1", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>Item Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professional relocation services at
+                          lowest prices. Get premium
+                          packaging & no hidden costs.
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={Autoimg} alt="img 1" style={{ maxWidth: "100%", height: "175px", top: "1", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>Item Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professional relocation services at
+                          lowest prices. Get premium
+                          packaging & no hidden costs.
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+
+                  <div className="col-md-4">
+                    <Card style={{ maxHeight: "350px", textAlign: "center", border: "none" }}>
+                      <Card.Img variant="top" src={tataac} alt="img 2" style={{ maxWidth: "100%", height: "175px", alignSelf: "center" }} /><br />
+                      <Card.Body style={{ height: "175px", boxShadow: '0 0 10px 1px black', borderRadius: "5px" }}>
+                        <Card.Title>House Shifting</Card.Title><br />
+                        <Card.Text>
+                          Professinal house shifting Service.
+                          Quick & Safe delivery, Well Experienced staff .
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </Carousel>
+        </div>
+      </div>
